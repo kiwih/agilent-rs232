@@ -9,7 +9,7 @@ To this:
 
 ![matplotlib](reading.png?raw=true "Matplotlib rendering")
 
-I wrote a blog post to go along with this! You can find it [here](https://01001000.xyz/2020-05-10-Walkthrough-Agilent-Oscilloscope-RS232/)!
+I wrote a blog post to go along with this! You can find it [here](https://01001000.xyz/2020-05-07-Walkthrough-Agilent-Oscilloscope-RS232/)!
 
 # Usage
 
