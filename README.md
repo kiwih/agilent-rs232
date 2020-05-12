@@ -28,3 +28,8 @@ optional arguments:
   --length LENGTH, -l LENGTH
                         number of samples (default 1000)
 ```
+
+# Other implementations
+
+I'm not the first person to want to solve this problem! 
+Although I did not use their code, a more full-featured approach to reading scopes and other tools from Python can be found under the [PyVisa](https://pyvisa.readthedocs.io/en/latest/) library.
