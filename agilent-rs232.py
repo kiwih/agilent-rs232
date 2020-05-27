@@ -46,7 +46,7 @@ ser.write(b'*IDN?\n')
 ser.flush() #flush the serial to ensure the write is sent
 
 #let's get the response
-scope_idn = ser.readline() #read a maximum of 100 bytes, the timeout should end this early
+scope_idn = ser.readline() 
 
 if scope_idn[0:7] != b'AGILENT':
     print("Unexpected response from Agilent scope, check your connection and try again")
