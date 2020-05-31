@@ -1,5 +1,5 @@
 # agilent-rs232
-A basic script to read the waveform from an Agilent 54621A oscilloscope via RS232 and display it using matplotlib.
+A basic script to read the waveform from an Agilent 54621A (Note: Has also been checked with 54622D) oscilloscope via RS232 and display it using matplotlib.
 
 It can convert this:
 
